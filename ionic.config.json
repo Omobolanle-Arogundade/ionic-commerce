@@ -1,0 +1,7 @@
+{
+  "name": "busolaStore",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
